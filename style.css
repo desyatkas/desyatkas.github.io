@@ -162,7 +162,7 @@ p {
 }
 
 .hero {
-  background: var(--surface-0);
+  background: image-set("banner_bg.png") center;
   color: var(--text);
   overflow: hidden;
   padding: 8rem 0 8rem;
